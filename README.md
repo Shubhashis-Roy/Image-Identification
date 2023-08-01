@@ -1,6 +1,6 @@
 <div align="center">
 
-   <img src="https://droidtechknow.com/top-things/image-downloader-extensions-for-google-chrome/images/image-downloader-chrome-extensions.jpg" alt="logo"  /> 
+   <img src="https://droidtechknow.com/top-things/image-downloader-extensions-for-google-chrome/images/image-downloader-chrome-extensions.jpg" alt="logo"  width="470" height="auto"  /> 
 
   <h1> Image Analyzer </h1>
 

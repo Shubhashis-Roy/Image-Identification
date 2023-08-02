@@ -26,3 +26,15 @@
 <li> Delete the "public" and "src" files then replace them with "public" and "src" files from my project.</li>
 <li> Finally run the project using "npm start" </li>
 </ul>
+
+### <b> NPM Packages </b>
+- @tensorflow-models/mobilenet
+- @tensorflow/tfjs
+- dotenv
+- express
+- express-formidable
+- nodemon
+### Other Applications
+- Thunder Client
+- Postman
+- Vs Code

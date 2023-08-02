@@ -15,6 +15,9 @@
 <li> It's an Image Analyzer, where users can upload an image and also paste a URL of an image. </li>
 <li> After uploading an image it automatically detects the image and shows the analyzed data.</li>
 <li> Whatever image is uploaded to analyze these images are saved locally into the website and shown. Users can select this previously uploaded image and again analyze the image.  </li>
+<li> If users open this application on mobile phones then they take a photo from Cemra and upload
+it as well. </li>
+<li> This application is Fully Responsive. </li>
 </ul>
 
 <hr>

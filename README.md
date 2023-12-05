@@ -4,7 +4,7 @@
 
   <h1> Image Analyzer </h1>
 
-   <h2> <a href="https://imageid.netlify.app/">View Demo</a> </h2>
+   <h2> <a href="https://imageid.netlify.app/">Live Demo</a> </h2>
 
 </div>
 
